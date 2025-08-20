@@ -49,6 +49,6 @@ This project is an AI-powered **Intelligent Timetable Scheduler** that uses **Co
 ## 📧 Contact
 For queries or collaborations:
 
-Areej Suleman
-📫 Email: areej987suleman@gmail.com
-🌐 GitHub: areej418
+Mian Ameer Muhammad
+📫 Email: mianameer830@gmail.com
+🌐 GitHub: mianameer314
