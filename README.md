@@ -42,7 +42,7 @@ This project is an AI-powered **Intelligent Timetable Scheduler** that uses **Co
 ## 🧪 How to Run the Project
 
 1. **Clone the Repository**  
-   git clone https://github.com/areej418/intelligent-timetable-scheduler.git
+   git clone https://github.com/mianameer314/Intelligent-University-Timetable-Generator-.git
    cd intelligent-timetable-scheduler
 ---
 
